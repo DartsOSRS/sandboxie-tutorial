@@ -23,6 +23,7 @@ You should now have a sandboxed instance of the Jagex Launcher running. Sign out
 
 ### Step 5: Allow processes
 You should see a notification pop up asking if you'd like to allow the files to be copied. Select 'Yes' for all of them as they pop up.
+
 ![](https://github.com/DartsOSRS/sandboxie-tutorial/blob/main/SandMan_q3KgtvmqOm.png?raw=true)
 
 ### Step 6: Run your clients
